@@ -14,7 +14,7 @@ Md. Sakib Hasan</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Android <a href="https://www.udemy.com/course/master-android-7-nougat-java-app-development-step-by-step/" target="blank">Android Java Masterclass - Become an App Developer</a>
+- 🌱 I’m currently learning <a href="https://www.udemy.com/course/master-android-7-nougat-java-app-development-step-by-step/" target="blank">Android Java Masterclass - Become an App Developer</a>
 
 - 💬 Ask me about **Reactjs & React-Bootstrap**
 
